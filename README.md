@@ -7,4 +7,6 @@ Funcionamento:
 todos os arquivos da pasta. Para descriptografar, será necessário saber a senha do arquivo chave para executa-lo e 
 assim recuperar todos os arquivos.
 
+OBS: CUIDADO AO TESTAR, NÃO ME RESPONSABILIZO POR DANOS !!!!!
+
 
